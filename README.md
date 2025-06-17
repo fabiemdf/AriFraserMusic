@@ -1,2 +1,2 @@
 # AriFraserMusic
-The Offical Ari Fraser Music Repository
+The Official Ari Fraser Music Repository
